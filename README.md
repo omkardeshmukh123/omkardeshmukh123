@@ -1,10 +1,10 @@
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=800&lines=Omkar+Deshmukh;Software+Engineering+Intern+%7C+MERN+Stack+Developer;Strong+C%2B%2B+%26+DSA+Foundation;Building+Scalable+Web+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=800&lines=Omkar+Deshmukh;Software+Engineering+Intern+%7C+A+Developer;Strong+C%2B%2B+%26+DSA+Foundation;Building+Scalable+Web+Applications)
 
 # Hi 👋, I'm Omkar Deshmukh  
 
 🎓 B.E. Artificial Intelligence & Data Science (2027)  
-💻 AI Enthusiast |MERN Stack Developer | C++ | DSA | OOP  
+💻 AI Enthusiast |Developer | C++ | DSA | OOP  
 🚀 Actively seeking **Software Engineering / Full-Stack Internship Opportunities**
 
 ---
