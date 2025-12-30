@@ -4,7 +4,7 @@
 # Hi 👋, I'm Omkar Deshmukh  
 
 🎓 B.E. Artificial Intelligence & Data Science (2027)  
-💻 MERN Stack Developer | C++ | DSA | OOP  
+💻 AI Enthusiast |MERN Stack Developer | C++ | DSA | OOP  
 🚀 Actively seeking **Software Engineering / Full-Stack Internship Opportunities**
 
 ---
