@@ -11,9 +11,10 @@
 
 ## 🧠 About Me
 - Engineering student with strong fundamentals in **C++, Data Structures, OOP, and DBMS**
-- Hands-on experience in **full-stack development** and real-world software delivery
+- Experience in **full-stack development** and real-world software delivery
 - Software Developer Intern with exposure to **React, Node.js, REST APIs, and databases**
 - Passionate about clean architecture, performance, and scalable systems
+- Also I can work on Data as an Data Science student
 
 ---
 
@@ -88,11 +89,6 @@
 - Advanced C++ Training  
 - TCS – Data Visualization  
 - Deloitte – Data Analytics Job Simulation  
-
----
-
-## 📊 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkardeshmukh123&show_icons=true&theme=tokyonight)
 
 ---
 
