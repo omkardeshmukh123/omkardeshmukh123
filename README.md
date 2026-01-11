@@ -77,7 +77,7 @@
 
 ### 📚 Library Management System
 🔗 **Live**: https://omkardeshmukh123.github.io/Library-Management-System/
-🔗 **GitHub**full-featured Library Management System for efficient book and user management
+🔗 **GitHub**full-featured Library Management System for efficient book and user management/
 Built with intuitive web interface for librarians and members (view books, issue/return tracking, user sessions)
 Automated core library tasks like book cataloging, borrowing/return workflows, and inventory control
 Includes secure session handling with login/logout functionality and role-based access
