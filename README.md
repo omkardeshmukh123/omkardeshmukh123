@@ -1,101 +1,119 @@
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=800&lines=Omkar+Deshmukh;Software+Engineering+Intern+%7C+A+Developer;Strong+C%2B%2B+%26+DSA+Foundation;Building+Scalable+Web+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=800&lines=Omkar+Deshmukh;AI+%26+Backend+Developer;Strong+C%2B%2B+%26+DSA+Foundation;Building+Scalable+AI+Applications)
 
-# Hi 👋, I'm Omkar Deshmukh  
+# Omkar Deshmukh
 
-🎓 B.E. Artificial Intelligence & Data Science (2027)  
-💻 AI Enthusiast |Developer | C++ | DSA | OOP  
-🚀 Actively seeking **Software Engineering / Full-Stack Internship Opportunities**
+B.E. Artificial Intelligence & Data Science (2027)  
+AI & Backend Developer | C++ | Data Structures | LLM Applications  
 
----
-
-## 🧠 About Me
-- Engineering student with strong fundamentals in **C++, Data Structures, OOP, and DBMS**
-- Experience in **full-stack development** and real-world software delivery
-- Software Developer Intern with exposure to **React, Node.js, REST APIs, and databases**
-- Passionate about clean architecture, performance, and scalable systems
-- Also I can work on Data as an Data Science student
+Actively seeking **AI Engineer / Backend / Software Engineering Internship Opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 👨‍💻 Languages
+Engineering student specializing in **Artificial Intelligence and Data Science** with hands-on experience building **LLM-powered systems, backend APIs, and data platforms**.
+
+Experienced in developing **AI pipelines, prompt engineering workflows, and scalable backend services** using Python and modern web technologies. Interested in applying AI systems to real-world products in fintech and data-driven applications.
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 
-### 🧩 Core CS
-![DSA](https://img.shields.io/badge/Data_Structures-0A66C2?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-800000?style=for-the-badge)
+### AI / Machine Learning
+![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-0A66C2?style=for-the-badge)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### ⚙️ Backend & Databases
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-003300?style=for-the-badge&logo=mongodb)
+![REST API](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### 🛠 Tools & Platforms
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## 💼 Internship Experience
+## Experience
 
-### 🏢 Pronext Energy & Power Solutions Pvt. Ltd  
-**Software Developer Intern | Aug 2025 – Nov 2025**
+### Mitram360  
+Gen AI Intern | Feb 2026 – Present  
 
-- Optimized **React.js dashboard UI**, reducing UI issues by **30%**
-- Integrated and debugged **REST APIs** with Node.js & Express
-- Validated SQL queries and supported **database schema optimization**
-- Worked in an **Agile team environment** delivering stable releases
+Tech: Python, Next.js, TypeScript, Supabase, Google Gemini API  
 
----
-
-## 📌 Featured Projects
-
-### 🩺 Appointy – Doctor Appointment Booking App  
-🔗 **Live:** https://appointy-roan.vercel.app/  
-🔗 **GitHub:** https://github.com/omkardeshmukh123/Appointy  
-
-- Full-stack **MERN application** with patient, doctor, and admin roles
-- **JWT authentication** and **Razorpay payment integration**
-- Improved appointment booking flow by **30%**
+- Built an **AI-powered data extraction pipeline** using Google Gemini API to convert **928 lender records into structured profiles** with over 30 attributes.
+- Developed a **Python validation engine enforcing RBI regulatory rules** and automatically generating SQL fixes for data inconsistencies.
+- Created a **real-time lender discovery platform** with advanced filtering and geographic search logic.
+- Implemented production features including **logging, rate limiting, checkpoint recovery, and secure authentication using Supabase**.
 
 ---
 
-### 📚 Library Management System
-🔗 **Live**: https://omkardeshmukh123.github.io/Library-Management-System/
-- Built with intuitive web interface for librarians and members (view books, issue/return tracking, user sessions)
-- Automated core library tasks like book cataloging, borrowing/return workflows, and inventory control
-- Includes secure session handling with login/logout functionality and role-based access
-- Enhanced resource discovery and management through search and organized categorization
+### Pronext Energy & Power Solutions Pvt. Ltd  
+Software Developer Intern | Aug 2025 – Nov 2025  
+
+- Optimized React dashboard UI and reduced interface issues by approximately **30%**.
+- Integrated and debugged backend **REST APIs** using Node.js and Express.
+- Assisted with SQL validation and **database schema improvements**.
+- Worked in an **Agile development team** to ship stable product releases.
 
 ---
 
-## 📜 Certifications
-- Advanced C++ Training  
-- TCS – Data Visualization  
-- Deloitte – Data Analytics Job Simulation  
+## Projects
+
+### Lender Discovery Platform
+GitHub: https://github.com/omkardeshmukh123/lender-platform
+
+- Built a fintech platform to **discover and compare lenders and NBFC offerings**.
+- Designed backend APIs and structured database models for financial product data.
+- Implemented filtering and discovery workflows to improve lender search and comparison.
+- Focused on scalable backend architecture suitable for fintech applications.
 
 ---
 
-## 🤝 Connect With Me
-📧 **Email:** omkarsd2206@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/omkar-deshmukh-591902277/  
-🐙 **GitHub:** https://github.com/omkardeshmukh123  
+### Library Management System
+Live: https://omkardeshmukh123.github.io/Library-Management-System/
+
+- Developed a web-based system for managing book catalog, issue/return workflows, and user sessions.
+- Implemented CRUD operations and database-driven resource tracking.
+- Added search and categorization features for efficient book discovery.
+- Designed a simple interface for librarians and users.
 
 ---
 
-⭐ *Open to internships, collaborations, and challenging software projects*
+## Certifications
+
+Advanced C++ Training  
+TCS – Data Visualization  
+Deloitte – Data Analytics Job Simulation  
+
+---
+
+## Connect
+
+Email: omkarsd2206@gmail.com  
+LinkedIn: https://www.linkedin.com/in/omkar-deshmukh-591902277/  
+GitHub: https://github.com/omkardeshmukh123
+
+---
+
+Open to internship opportunities and collaborations in AI, backend systems, and scalable software development.
